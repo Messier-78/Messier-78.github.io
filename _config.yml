@@ -1,6 +1,5 @@
 name: Messier 78, reflection nebula
 markdown: kramdown
-permalink: /blog/:year/:month/:day/:title
 
 # Pagination
 gems: [jekyll-paginate]
