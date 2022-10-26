@@ -1,9 +1,2 @@
 name: Messier 78, reflection nebula
 markdown: kramdown
-
-# Pagination
-gems: [jekyll-paginate]
-paginate: 10
-paginate_path: "/blog/page:num/"
-
-future: true
